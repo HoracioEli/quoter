@@ -1,0 +1,11 @@
+C:\Users\Horacio\source\repos\quoter2\quoter\bin\Debug\quoter.exe.config
+C:\Users\Horacio\source\repos\quoter2\quoter\bin\Debug\quoter.exe
+C:\Users\Horacio\source\repos\quoter2\quoter\bin\Debug\quoter.pdb
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.csproj.AssemblyReference.cache
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.FMain.resources
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.Properties.Resources.resources
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.csproj.GenerateResource.cache
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.csproj.CoreCompileInputs.cache
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.exe
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.pdb
+C:\Users\Horacio\source\repos\quoter2\quoter\obj\Debug\quoter.FRoboValores.resources
